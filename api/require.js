@@ -1,5 +1,5 @@
 function testRequire() {
-  return "hello world";
+  return "hello world!";
 }
 
 module.exports = {
